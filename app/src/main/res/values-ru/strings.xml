@@ -8,11 +8,11 @@
     <string name="cancel">Отмена</string>
     <string name="close">Закрыть</string>
     <string name="title_telegram">Telegram Канал</string>
-    <string name="telegram_summary">Присоединяйтесь к моему телеграм каналу для обновления и информации</string>
+    <string name="telegram_summary">Присоединяйтесь к моему телеграм каналу для обновлений и информации</string>
     <string name="saved_pref">Сохраненные настройки</string>
     <string name="saved_pref_summary">Проверьте сохраненные настройки и конфигурации</string>
     <string name="title_choose_theme">Выбрать тему</string>
-    <string name="backup_not_found">Backup not found.\nBackup Now!Бэкап не найден.\Сделайте сейчас!</string>
+    <string name="backup_not_found">Бэкап не найден.\Сделайте сейчас!</string>
     <string name="download_failed">Не удалось скачать</string>
     <string name="downloading_files">Скачивание файлов</string>
     <string name="start_downloads">Начало скачивания...</string>
@@ -38,7 +38,7 @@
     <string name="visit_my_website">Посетить мой веб-сайт</string>
     <string name="website">Веб-сайт</string>
     <string name="error">Ошибка</string>
-    <string name="backup_restore">Бэкап &amp; Восстановление разделов</string>
+    <string name="backup_restore">Бэкап &amp; Восстановление</string>
     <string name="unselect_all">Отменить все</string>
     <string name="select_all">Выбрать все</string>
     <string name="select_at_least_one_partition">Выберите хотя бы один раздел!</string>
@@ -50,7 +50,7 @@
     <string name="restore">Восстановить</string>
     <string name="wear_level_history">История уровня износа</string>
     <string name="restore_completed">Восстановление завершено!</string>
-    <string name="root_access_denied_this_app_ca">Рут права не выданы. Это приложение не может функционирывать без рут прав.</string>
+    <string name="root_access_denied_this_app_ca">Рут-права не выданы. Это приложение не может функционирывать без рут прав.</string>
     <string name="try_again">Повторить еще раз</string>
     <string name="select_phone_purchase_date">Выберите дату покупки телефона</string>
     <string name="checking">Проверка...</string>
@@ -64,14 +64,14 @@
     <string name="previous_read">Пред. чтение</string>
     <string name="open">ОТКРЫТЬ</string>
     <string name="start">СТАРТ</string>
-    <string name="request_root_access">Запрос рут прав</string>
-    <string name="this_application_requires_root">Это приложение заправшивает рут права для чтения информации о хранилища низкого уровня (Здоровье eMMC или UFS).</string>
-    <string name="grant_root_access">ВЫДАТЬ ДОСТУП К РУТ ПРАВАМ</string>
+    <string name="request_root_access">Запрос рут-прав</string>
+    <string name="this_application_requires_root">Это приложение заправшивает рут-права для чтения информации о хранилище низкого уровня (Здоровье eMMC или UFS).</string>
+    <string name="grant_root_access">ВЫДАТЬ ДОСТУП К РУТ-ПРАВАМ</string>
     <string name="permission_request">Запрос разрешения</string>
     <string name="grant_all_permission">ВЫДАТЬ ВСЕ РАЗРЕШЕНИЯ</string>
-    <string name="when_did_you_buy_this">Когда вы купили это?</string>
+    <string name="when_did_you_buy_this">Когда вы купили этот телефон?</string>
     <string name="to_calculate_your_daily_wear_l">Для аккуратного расчета вашего ежедневного уровня износа, мы должны знать дату покупки.</string>
-    <string name="we_need_the_following_permissi">Нам нужны следующие разрешения для бэкапа ваших разделов и уведомления вас</string>
+    <string name="we_need_the_following_permissi">Нам нужны следующие разрешения для бэкапа Ваших разделов.</string>
     <string name="storage_all_files_access">1. Хранилище - Доступ к файлам</string>
     <string name="notifications">2. Уведомления</string>
     <string name="select_purchase_date">ВЫБРАТЬ ДАТУ ПОКУПКИ</string>
@@ -83,10 +83,9 @@
     <string name="select_partitions_to_backup">Выберите разделы для бэкапа</string>
     <string name="backup">Бэкап</string>
     <string name="no_backup_found">Бэкап не найден</string>
-    <string name="wear_level">Уровень износа</string>
-    <string name="cycle_usages">Использование циклов</string>
-    <string name="warning">Внимание!!</string>
-    <string name="this_is_dangerous_feature_you_">Это очень опасная функция. Вы должны знать что вы делаете.</string>
+    <string name="wear_level">Ур. износа</string>
+    <string name="cycle_usages">Исп. циклов</string>
+    <string name="warning">Внимание!!!</string>                            <string name="this_is_dangerous_feature_you_">Это очень опасная функция. Вы должны знать что Вы делаете.</string>
     <string name="i_understand">Я понимаю</string>
     <string name="leave_it">Выйти</string>
     <string name="delete_backup">Удалить бэкап</string>
@@ -98,6 +97,6 @@
     <string name="you_are_not_allowed_to_restore">Вам не разрешено восстанавливать эти разделы, так как оно может повредить ваше устройство.</string>
     <string name="later">Позже</string>
     <string name="new_version_available">Доступна новая версия!</string>
-    <string name="a_new_version_is_available">Новая версия доступна для скачивания \n</string>
+    <string name="a_new_version_is_available">Доступна новая версия для скачивания \n</string>
     
 </resources>
