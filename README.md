@@ -20,8 +20,9 @@ Most Android devices will work, but in some cases, they may not.
 
 ## Translations
 - [x] Default Translation ```English```
-- [ ] Indonesian
-- [ ] Russian
+- [x] Ukrainian
+- [x] Indonesian
+- [x] Russian
 
 ```Submit a pull request to contribute to the translation or improve existing translations.```
 
